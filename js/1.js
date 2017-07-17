@@ -1,4 +1,4 @@
-$(window).on('load', function () {
+$( document ).ready(function() {
 	$('.colour_1_0').click(function(e){
 				e.preventDefault(e);
 				$('.colour_1').toggleClass('active');
