@@ -1,0 +1,20 @@
+$(window).on('load', function () {
+	$('.colour_1_0').click(function(e){
+				e.preventDefault(e);
+				$('.colour_1').toggleClass('active');
+				$('.masked.active.colour_2').removeClass('active');
+				$('.masked.active.colour_3').removeClass('active');
+	});
+	$('.colour_2_0').click(function(e){
+				e.preventDefault(e);
+				$('.colour_2').toggleClass('active');
+				$('.masked.active.colour_1').removeClass('active');
+				$('.masked.active.colour_3').removeClass('active');
+	});
+	$('.colour_3_0').click(function(e){ 
+				e.preventDefault(e);
+				$('.colour_3').toggleClass('active');
+				$('.masked.active.colour_1').removeClass('active');
+				$('.masked.active.colour_2').removeClass('active');
+	});
+})

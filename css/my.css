@@ -1,0 +1,19 @@
+.masked{display:none;}
+.centering{display:block;margin:0 auto;}
+.head_backgr{background:#fff;margin-bottom:30px;}
+.nav-justified > li > a{color:#5F6973;font-size:1.5em;}
+.head_backgr .row .col-md-4 img{padding:20px 0px 20px 30px;}
+.calculate_cost{text-align:right;padding-top:120px;}
+.calculate_cost a{color:#F36240;font-size:1.5em;text-decoration:underline;}
+.head_backgr .row .col-md-4.tel{text-align:right;padding-top:86px;padding-right:50px;}
+.font_s{font-size:2em;}
+#sidebar .list-group{background-color:#fff;border-radius:7px;}
+#sidebar .list-group h3{font-size:14pt;padding:15px 0 0 15px;}
+#sidebar .list-group .list-group-item{border:none;text-decoration:underline;}
+#sidebar .list-group .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus{color:#f36240;background-color:#fff;text-decoration:underline;}
+.container_0{background:#fff;border-radius:7px;margin-top:20px;padding:5px 15px 30px 30px;}
+.container_0 h2{font-size:1.8em;padding-bottom:30px;}
+.container_0 .col-xs-12.col-md-8 li{color:#f36240;}
+.container_0 .col-xs-12.col-md-8 li span{color:#484848;}
+p.choose_color{padding:20px 0 20px 23px;font-size:14pt;}
+.masked.active{display:block;}
